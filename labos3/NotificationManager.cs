@@ -18,6 +18,6 @@ namespace labos3
             Console.WriteLine(notification.Text);
             Console.WriteLine(notification.Level);
             Console.ResetColor();
-        }
+        }
     }
 }
